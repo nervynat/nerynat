@@ -1,12 +1,10 @@
-<h6 align="center">
+g<h6 align="center">
 
 ![profileviews](https://komarev.com/ghpvc/?username=nervynat&style=plastic&color=82b6bf&label=Sillies)
 
-*italic text* normal text **somewhat bolder text but its not really visible**
+*i heart my girlfie* @soapiwan 
 
-to get all the text to a slightly darker colour, change the h6 at the very top to h5 :-)
-
-if you want text on the next line, you need to keep one clear line between that one and the previous one, or itll just go on the same one
+i'm autistic so pls use tonetags if you can GULP
 
 ![](https://64.media.tumblr.com/27b21882a6dab4a70ca08a50491b8ebc/4e94a8eeded33b1f-2c/s100x200/3124072b629207ed7005e830c4f4c0785f4ea47f.pnj)
 ![](https://64.media.tumblr.com/5b5fad3601f8e4d40f05aef40f7d07d8/4e94a8eeded33b1f-3c/s100x200/7d7728258e182b25030caade8c70d0dca91ba76b.pnj)
@@ -15,7 +13,7 @@ if you want text on the next line, you need to keep one clear line between that 
 
 ![](https://64.media.tumblr.com/c8ddb177d023fd1776698d12f42389e3/61852014a512a949-ef/s400x600/c63130df6905c4a689946a030d37059c25c8fca7.pnj)
 
-more text perhaps?? like dni or something idk silly do what you want
+dni basic dni criteria & dni if under 14 
 
 ![](https://64.media.tumblr.com/cdd21b2827e83e9494f7bc659c4afb40/dce6445c99667a5f-01/s400x600/c1ab800ced8579168fc4f2925480aa00ec4767cb.gifv)
 
