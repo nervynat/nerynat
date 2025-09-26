@@ -1,4 +1,4 @@
-g<h6 align="center">
+<h6 align="center">
 
 ![profileviews](https://komarev.com/ghpvc/?username=nervynat&style=plastic&color=82b6bf&label=Sillies)
 
