@@ -1,4 +1,4 @@
-```<h6 align="center">
+<h6 align="center">
 
 ![profileviews](https://komarev.com/ghpvc/?username=nervynat&style=plastic&color=82b6bf&label=Sillies)
 
@@ -19,4 +19,4 @@ more text perhaps?? like dni or something idk silly do what you want
 
 ![](https://64.media.tumblr.com/cdd21b2827e83e9494f7bc659c4afb40/dce6445c99667a5f-01/s400x600/c1ab800ced8579168fc4f2925480aa00ec4767cb.gifv)
 
-![](https://64.media.tumblr.com/3ba0045fa9edc8defb1196397a3477bc/f5a0ca4d88c8c395-41/s400x600/9258b5f926eaec8843cb49cc5a509bb9e8313ed5.gifv)```
+![](https://64.media.tumblr.com/3ba0045fa9edc8defb1196397a3477bc/f5a0ca4d88c8c395-41/s400x600/9258b5f926eaec8843cb49cc5a509bb9e8313ed5.gifv)
